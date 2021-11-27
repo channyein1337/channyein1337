@@ -28,7 +28,7 @@ I work as application Security Engineer  in day and I hunt bugs mainly on synack
 
 
 
-[![](https://img.shields.io/twitter/follow/bytehx343?color=gray&logo=twitter&label=%40hahwul&style=flat)](https://twitter.com/bytehx343)
+[![](https://img.shields.io/twitter/follow/bytehx343?color=gray&logo=twitter&label=%40bytehx343&style=flat)](https://twitter.com/bytehx343)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=channyein1337&show_icons=true&theme=radical" width="50%">
