@@ -8,6 +8,8 @@ Bug Bounty Hunter/ Pentester / Security Consultant / Application Security Engine
 - https://github.com/channyein1337/403-bypass
 - https://github.com/channyein1337/bcrawl
 - https://github.com/channyein1337/dnsc
+- https://github.com/channyein1337/log4j-detect
+- https://github.com/channyein1337/gup
 
 # Bug Bount Tips
 
