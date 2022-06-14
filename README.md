@@ -6,7 +6,7 @@ Bug Bounty Hunter/ Pentester / Security Consultant / Application Security Engine
 
 My name is Chan Nyein Wai but other people know me as bytehx on twitter.
 I'm an infosec and programmer enthusiast, specially a 21 years old application security enginner from Myanmar(Burma). 
-During the last 4 years, I've been participating in different cyber security events and competition. I've been doing recently Bug Bounty Hunting, Security Research and writing tools for contribution to community.I work as application Security Engineer  in day and I hunt bugs mainly on synack at night. I am currently looking fo
+During the last 4 years, I've been participating in different cyber security events and competition. I've been doing recently Bug Bounty Hunting, Security Research and writing tools for contribution to community.I work as application Security Engineer  in day and I hunt bugs mainly on synack at night.
 
 # Certifcations
 
@@ -30,7 +30,7 @@ Hackerone - https://hackerone.com/bytehx343?type=user
 
 - https://github.com/channyein1337/Bug-Bounty-Tips
 
-
+# Twitter
 [![](https://img.shields.io/twitter/follow/bytehx343?color=gray&logo=twitter&label=%40bytehx343&style=flat)](https://twitter.com/bytehx343)
 
 
