@@ -16,6 +16,11 @@ During the last 4 years, I've been participating in different cyber security eve
 
 # Hall of Fames
 Hackerone - https://hackerone.com/bytehx343?type=user
+Accenture - https://accenture.responsibledisclosure.com/hc/en-us/articles/360040573233/
+Utrecht University  - https://www.uu.nl/en/organisation/information-and-technology-services-its/hall-of-fame-responsible-disclosure
+BurdaForward - https://www.burda-forward.de/en/security/
+Fastweb - https://fastweb.it/corporate/responsible-disclosure/
+Telecom - https://www.telekom.sk/wiki/ostatne/program-bug-bounty
 
 # Tools
 
